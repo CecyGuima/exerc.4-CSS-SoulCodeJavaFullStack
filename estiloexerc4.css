@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+}
+
+.grad{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to left, blue, red, yellow, rgb(255, 255, 255));
+}
+
+.grad1{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to top, blue, green, yellow);
+}
+
+.grad2{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to bottom, rgb(8, 8, 8), rgb(255, 166, 0), rgb(255, 0, 140));
+}
+
+.grad3{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to right, rgb(217, 217, 218), rgb(238, 103, 137), rgb(31, 31, 30));
+}
+
+.grad4{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(70deg, rgb(3, 53, 10), rgb(250, 246, 246));
+}
+
+.grad5{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: radial-gradient(rgb(56, 61, 56), rgb(206, 67, 183), rgb(182, 182, 178));
+}
+
+.grad6{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(150deg, rgb(106, 166, 245), rgb(27, 7, 73), rgb(255, 115, 0));
+}
+
+.grad7{
+    border: 0.5px solid;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(to left, rgb(29, 138, 38), red, yellow, pink, grey);
+}
+
+.f1{
+    background-image: url('gif1.gif');
+    width: 1900px;
+    height: 700px;
+    background-size: 1900px 700px;
+}
+
+.f2{
+    background-image: url('Mar.jpg');
+    width: 1900px;
+    height: 500px;
+    background-size: 1900px 500px;
+}
+
+.f3{
+    background-image: url('Pordosol.jpg');
+    width: 1900px;
+    height: 500px;
+    background-size: 1900px 500px;
+}
+
+.f4{
+    background-image: url('gif3.gif');
+    width: 1900px;
+    height: 700px;
+    background-size: 1900px 700px;
+}
+
+.f5{
+    background-image: url('Flores.jpg');
+    width: 1900px;
+    height: 500px;
+    background-size: 1900px 500px;
+}
+
+.f6{
+    background-image: url('praia.png');
+    width: 1900px;
+    height: 500px;
+    background-size: 1900px 500px;
+}
+
+.f7{
+    background-image: url('gif2.gif');
+    width: 1900px;
+    height: 700px;
+    background-size: 1900px 700px;
+}
+
+.f8{
+    background-image: url('Cachoeira.jpg');
+    width: 1900px;
+    height: 500px;
+    background-size: 1900px 500px;
+}
+
